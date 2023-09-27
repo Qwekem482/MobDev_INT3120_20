@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SecondLinear</string>
+    <string name="place_your_order">PLACE YOUR ORDER</string>
+    <string name="exit">EXIT</string>
+    <string name="your_order">Your Order:</string>
+    <string name="veggies">Veggies</string>
+    <string name="mushroom">Mushroom</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="round">Round</string>
+    <string name="square">Square</string>
+    <string name="none">None</string>
+    <string name="_2_x_cheese">2 x Cheese</string>
+    <string name="cheese">Cheese</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_your_name">Enter your name</string>
+</resources>

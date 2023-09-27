@@ -1,0 +1,47 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Item 1"
+        app:showAsAction="collapseActionView"/>
+
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Item 2"
+        app:showAsAction="collapseActionView">
+        <menu>
+            <item
+                android:id="@+id/item21"
+                android:icon="@drawable/ic_launcher_background"
+                android:title="Item 2.1"
+                app:showAsAction="collapseActionView"/>
+            <item
+                android:id="@+id/item22"
+                android:icon="@drawable/ic_launcher_background"
+                android:title="Item 2.2"
+                app:showAsAction="collapseActionView"/>
+            <!--            <group>-->
+            <item
+                android:id="@+id/item23"
+                android:icon="@drawable/ic_launcher_background"
+                android:title="Item 2.3"
+                app:showAsAction="collapseActionView"/>
+            <item
+                android:id="@+id/item24"
+                android:icon="@drawable/ic_launcher_background"
+                android:title="Item 2.4"
+                app:showAsAction="collapseActionView"/>
+            <!--            </group>-->
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Item 3"
+        app:showAsAction="collapseActionView"/>
+</menu>

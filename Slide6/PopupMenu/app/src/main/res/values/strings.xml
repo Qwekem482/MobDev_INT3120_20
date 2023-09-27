@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopupMenu</string>
+    <string name="popup_menu">POPUP MENU</string>
+    <string name="tap">TAP</string>
+    <string name="item_2_3">Item 2.3</string>
+    <string name="item_2_4">Item 2.4</string>
+    <string name="item_2_2">Item 2.2</string>
+    <string name="item_2_1">Item 2.1</string>
+    <string name="item_2">Item 2</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_3">Item 3</string>
+</resources>

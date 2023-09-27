@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Constraint</string>
+    <string name="direct">Direct</string>
+    <string name="paypal">PayPal</string>
+    <string name="amount">Amount</string>
+    <string name="_0">0</string>
+    <string name="donate">DONATE</string>
+    <string name="total_so_far">Total so Far: $</string>
+    <string name="_00">0</string>
+</resources>

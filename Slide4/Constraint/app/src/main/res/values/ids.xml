@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="generousText" type="id">generous</item>
+    <item name="paymentGroup" type="id">payments</item>
+    <item name="paypalButton" type="id">paypal</item>
+    <item name="directButton" type="id">direct</item>
+    <item name="numbPick" type="id">amount</item>
+    <item name="progressBar" type="id">percentage</item>
+    <item name="amountLabel" type="id">amountLabel</item>
+    <item name="editText" type="id">edit</item>
+    <item name="donateButton" type="id">Donate</item>
+    <item name="totalLabel" type="id">total</item>
+    <item name="total" type="id">totalValue</item>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nameInput" type="id">name</item>
+    <item name="phoneInput" type="id">phoneNumber</item>
+    <item name="cheeseRadioGroup" type="id">cheese</item>
+    <item name="cheese" type="id">cheese</item>
+    <item name="cheese2" type="id">second-cheese</item>
+    <item name="noneCheese" type="id">0Cheese</item>
+    <item name="shapeRadioGroup" type="id">shape</item>
+    <item name="round" type="id">round</item>
+    <item name="toppings" type="id">toppings</item>
+    <item name="pep" type="id">peperonis</item>
+    <item name="mus" type="id">mushroom</item>
+    <item name="veg" type="id">veggies</item>
+    <item name="yourOrdering" type="id">order</item>
+    <item name="orderBox" type="id">orderBox</item>
+    <item name="exitbtn" type="id">exit</item>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Relative</string>
+    <string name="text2">Text2</string>
+    <string name="text1">Text1</string>
+    <string name="button">Button</string>
+    <string name="secondButton">Button</string>
+</resources>

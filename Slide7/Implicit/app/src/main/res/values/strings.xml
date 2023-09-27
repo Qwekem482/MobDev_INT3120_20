@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Implicit</string>
+    <string name="open_browser">OPEN BROWSER</string>
+    <string name="look_up">LOOK UP</string>
+    <string name="dial">DIAL</string>
+</resources>
