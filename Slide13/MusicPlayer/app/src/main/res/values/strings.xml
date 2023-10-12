@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="heading">Music Player</string>
+    <string name="startButtonText">Play</string>
+    <string name="pauseButtonText">Pause</string>
+    <string name="stopButtonText">Stop</string>
+</resources>

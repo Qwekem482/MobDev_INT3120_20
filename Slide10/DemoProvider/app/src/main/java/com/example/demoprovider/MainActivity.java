@@ -31,14 +31,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onClickAddDetails(View view) {
-
         ContentValues values = new ContentValues();
 
-        // fetch text from user
         values.put(DemoProvider.name, ((EditText) findViewById(R.id.textName)).getText().toString());
-        // insert data into database using content URI
         getContentResolver().insert(DemoProvider.CONTENT_URI, values);
-        // display message
         Toast.makeText(getBaseContext(), "New Record Inserted", Toast.LENGTH_LONG).show();
     }
 
